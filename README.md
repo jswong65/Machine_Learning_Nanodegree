@@ -1,1 +1,1 @@
-Uadcity-Machine-Learning Projection Submission
+Uadcity-Machine-Learning Project Submission
