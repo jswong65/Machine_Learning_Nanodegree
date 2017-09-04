@@ -1,9 +1,19 @@
-# Projects of Udacity Machine Learning Nano Degree
+# Udacity Machine Learning Nanodegree
 
-| Project                                                                                                                         | Description                           |
-|---------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
-| [titanic_survival_exploratio](https://github.com/jswong65/Machine_Learning_Nano_Degree/tree/master/titanic_survival_exploratio) | An Intro project to Machine Learning  |
-| [boston_housing](https://github.com/jswong65/Machine_Learning_Nano_Degree/tree/master/boston_housing)                           |                                       |
-| [finding_donors](https://github.com/jswong65/Machine_Learning_Nanodegree/tree/master/finding_donors)                            |                                       |
-| [customer_segments](https://github.com/jswong65/Machine_Learning_Nano_Degree/tree/master/customer_segments)                     |                                       |
-| [smartcab](https://github.com/jswong65/Machine_Learning_Nano_Degree/tree/master/smartcab)                                       |                                       |
+Project implmentation for Udacity Machine Learning Nanodegree. These projects invovles different apsects of machine learning, including **Supervised Learning**, **Unsupervised Learning**, **Reinforcement Learning**, **Model Evaluation & Validation**, etc. 
+
+Several python data analytic packages are used for the project implementation. 
+* **Numpy**: Performs numerical operations. 
+* **Pandas: Data** I/O and manipulation.
+* **Matplotlib**: Data visualization
+* **scikit-learn**: Builds, trains, and tests machine learning models.
+
+Many datasets used in these projects can be found on [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
+
+| Project                                                                                                                         | Description                                                                                                                                                                                                                                                                                                                |
+|---------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [titanic_survival_exploratio](https://github.com/jswong65/Machine_Learning_Nano_Degree/tree/master/titanic_survival_exploratio) | **An Intro project to Machine Learning.** Exploring various variables that can be applied to predict the survival rate of Titanic passengers, including socio-economic class, gender, age, fare, etc. The results implies **gender**, **age**, and **socio-economic class** can be the important variables for prediction. |
+| [boston_housing](https://github.com/jswong65/Machine_Learning_Nano_Degree/tree/master/boston_housing)                           | **Model Evaluation & Validation.** The goal of this project is Predicting Boston Housing Prices.                                                                                                                                                                                                                           |
+| [finding_donors](https://github.com/jswong65/Machine_Learning_Nanodegree/tree/master/finding_donors)                            | **Supervised Learning.** The goal of this project is Finding Donors for Charity.                                                                                                                                                                                                                                           |
+| [customer_segments](https://github.com/jswong65/Machine_Learning_Nano_Degree/tree/master/customer_segments)                     | **Unsupervised Learning**: The goal of this project is Creating Customer Segments.                                                                                                                                                                                                                                         |
+| [smartcab](https://github.com/jswong65/Machine_Learning_Nano_Degree/tree/master/smartcab)                                       | **Reinforcement Learning**: The goal of this project is Training a Smartcab to Drive                                                                                                                                                                                                                                       |
