@@ -1,6 +1,6 @@
 # Udacity Machine Learning Nanodegree
 
-Project implmentation for Udacity Machine Learning Nanodegree. These projects invovles different apsects of machine learning, including **Supervised Learning**, **Unsupervised Learning**, **Reinforcement Learning**, **Model Evaluation & Validation**, etc. 
+Project implementation for Udacity Machine Learning Nanodegree. These projects covers different aspects of machine learning, including **Supervised Learning**, **Unsupervised Learning**, **Reinforcement Learning**, **Model Evaluation & Validation**, etc. 
 
 Several python data analytic packages are used for the project implementation. 
 * **Numpy**: Performs numerical operations. 
